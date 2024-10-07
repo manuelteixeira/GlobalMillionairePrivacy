@@ -43,4 +43,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions about this Privacy Policy, please contact us:
 - By email: [teixeirasmanuel@gmail.com]
-- By visiting this page on our website: [GitHub Repository URL]
+- By visiting this page on our website: [GitHub Repository URL](./index.md)
