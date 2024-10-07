@@ -48,7 +48,7 @@ If you're experiencing issues or have questions not covered in the FAQ:
 
 ## Privacy Policy
 
-Our privacy policy is available [here](https://manuelteixeira.github.io/GlobalMillionairePrivacy/).
+Our privacy policy is available [here](./privacy-policy.md).
 
 ## App Store
 
